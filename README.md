@@ -1,7 +1,16 @@
 # Instafilter: Photo Editing App
 
 ## Overview
-Instafilter is an iOS app that allows users to import photos from their library and apply various image effects using Apple's Core Image framework. The app seamlessly integrates with UIKit to offer a diverse range of filters, making photo editing both accessible and enjoyable.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Instafilter/assets/123434744/f15d01c8-66f1-4784-a6bb-ea96cede3484" alt="Instafilter App Demo" width="300" />
+    </td>
+    <td>
+      Instafilter is an iOS app that allows users to import photos from their library and apply various image effects using Apple's Core Image framework. The app seamlessly integrates with UIKit to offer a diverse range of filters, making photo editing both accessible and enjoyable.
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 - **Photo Import**: Users can select photos from their library for editing.
@@ -31,3 +40,5 @@ Instafilter is an iOS app that allows users to import photos from their library 
 *Instafilter was developed as part of the "100 Days of SwiftUI" course, focusing on practical application of Core Image and SwiftUI/UIKit integration.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
